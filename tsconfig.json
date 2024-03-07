@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    // "sourceMap": true,
+    "allowJs": true,
+    "removeComments": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    // "outDir": "dist",
+    "isolatedModules": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
